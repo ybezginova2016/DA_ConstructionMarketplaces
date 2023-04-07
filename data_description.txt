@@ -1,12 +1,36 @@
-vrp_2017_2020
+vrp_2014_2020
+index_prod_prices_2017_2022
+population_rf
+constr_2017_2022
+materials_2017_2020
+constr_vol_2017_2022
+act_dir_2017_2022
+
+
+maxidom.ru
+petrovich.ru
+obi.ru
+metizi.com
+masterovoy-spb.ru
+строй-хаус.рф
+
+
+
+vrp_2014_2022
 "C:\Users\HOME\PycharmProjects\DA_ConstructionMarketplaces\vrp_2017_2020.xls"
 Валовой региональный продукт на душу населения_2017_2020
 
 
-transp_2017_2022
-"C:\Users\HOME\PycharmProjects\DA_ConstructionMarketplaces\transp_2017_2022.xls"
-Индексы тарифов на грузовые перевозки_2017_2022
+index_prod_prices_2017_2022
+"C:\Users\HOME\PycharmProjects\DA_ConstructionMarketplaces\inde_prod_prices_2017_2022.xls"
+Индексы цен производителей на строительную продукцию_2017_2022
 
+
+data
+"C:\Users\HOME\PycharmProjects\DA_ConstructionMarketplaces\data_scraped.csv"
+
+population_rf
+"C:\Users\HOME\PycharmProjects\DA_ConstructionMarketplaces\population_rf.xls"
 
 constr_2017_2022
 "C:\Users\HOME\PycharmProjects\DA_ConstructionMarketplaces\constr_2017_2022.xls"
@@ -28,11 +52,6 @@ act_dir_2017_2022
 Оценка направлений деятельности строительной организации_СЗФО_2017_2022
 
 
-fin_state_2017_2022
-"C:\Users\HOME\PycharmProjects\DA_ConstructionMarketplaces\fin_state_2017_2022.xls"
-Оценка финансового положения строительной организации_2017_2022
-
-
 Республика Карелия
 Республика Коми
 Ненецкий автономный округ
@@ -48,13 +67,33 @@ fin_state_2017_2022
 https://ru.wikipedia.org/wiki/Список_субъектов_Российской_Федерации_по_валовому_продукту
 wikitable sortable jquery-tablesorter
 
+СЕЛЬСКОЕ, ЛЕСНОЕ ХОЗЯЙСТВО, ОХОТА, РЫБОЛОВСТВО И РЫБОВОДСТВО
+ДОБЫЧА ПОЛЕЗНЫХ ИСКОПАЕМЫХ
 ОБРАБАТЫВАЮЩИЕ ПРОИЗВОДСТВА
 ОБЕСПЕЧЕНИЕ ЭЛЕКТРИЧЕСКОЙ ЭНЕРГИЕЙ, ГАЗОМ И ПАРОМ; КОНДИЦИОНИРОВАНИЕ ВОЗДУХА
 ВОДОСНАБЖЕНИЕ; ВОДООТВЕДЕНИЕ, ОРГАНИЗАЦИЯ СБОРА И УТИЛИЗАЦИИ ОТХОДОВ, ДЕЯТЕЛЬНОСТЬ ПО ЛИКВИДАЦИИ ЗАГРЯЗНЕНИЙ
 СТРОИТЕЛЬСТВО
 ТОРГОВЛЯ ОПТОВАЯ И РОЗНИЧНАЯ; РЕМОНТ АВТОТРАНСПОРТНЫХ СРЕДСТВ И МОТОЦИКЛОВ
 ТРАНСПОРТИРОВКА И ХРАНЕНИЕ
+ДЕЯТЕЛЬНОСТЬ ГОСТИНИЦ И ПРЕДПРИЯТИЙ ОБЩЕСТВЕННОГО ПИТАНИЯ
 ДЕЯТЕЛЬНОСТЬ В ОБЛАСТИ ИНФОРМАЦИИ И СВЯЗИ
 ДЕЯТЕЛЬНОСТЬ ФИНАНСОВАЯ И СТРАХОВАЯ
 ДЕЯТЕЛЬНОСТЬ ПО ОПЕРАЦИЯМ С НЕДВИЖИМЫМ ИМУЩЕСТВОМ
+ДЕЯТЕЛЬНОСТЬ ПРОФЕССИОНАЛЬНАЯ, НАУЧНАЯ И ТЕХНИЧЕСКАЯ
+ДЕЯТЕЛЬНОСТЬ АДМИНИСТРАТИВНАЯ И СОПУТСТВУЮЩИЕ ДОПОЛНИТЕЛЬНЫЕ УСЛУГИ
+ГОСУДАРСТВЕННОЕ УПРАВЛЕНИЕ И ОБЕСПЕЧЕНИЕ ВОЕННОЙ БЕЗОПАСНОСТИ; СОЦИАЛЬНОЕ ОБЕСПЕЧЕНИЕ
+ОБРАЗОВАНИЕ
+ДЕЯТЕЛЬНОСТЬ В ОБЛАСТИ ЗДРАВООХРАНЕНИЯ И СОЦИАЛЬНЫХ УСЛУГ
+ДЕЯТЕЛЬНОСТЬ В ОБЛАСТИ КУЛЬТУРЫ, СПОРТА, ОРГАНИЗАЦИИ ДОСУГА И РАЗВЛЕЧЕНИЙ
+ПРЕДОСТАВЛЕНИЕ ПРОЧИХ ВИДОВ УСЛУГ
+
+
+Yulia Bezginova
+
+Data Science, Machine Learning, Research
+
+Telegram @ybezginova_de
+Email: ybezginova2021@gmail.com
+Medium blog: https://medium.com/@ybezginova2021
+
 
