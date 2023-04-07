@@ -1,0 +1,35 @@
+                          PanelOLS Estimation Summary                           
+================================================================================
+Dep. Variable:             prod_index   R-squared:                        0.3080
+Estimator:                   PanelOLS   R-squared (Between):              0.7429
+No. Observations:                5230   R-squared (Within):              -2.8919
+Date:                Thu, Apr 06 2023   R-squared (Overall):              0.7442
+Time:                        21:42:54   Log-likelihood                   -7569.3
+Cov. Estimator:             Clustered                                           
+                                        F-statistic:                      464.14
+Entities:                           7   P-value                           0.0000
+Avg Obs:                       747.14   Distribution:                  F(5,5213)
+Min Obs:                       324.00                                           
+Max Obs:                       855.00   F-statistic (robust):             3.0278
+                                        P-value                           0.0099
+Time periods:                       6   Distribution:                  F(5,5213)
+Avg Obs:                       871.67                                           
+Min Obs:                       783.00                                           
+Max Obs:                       1045.0                                           
+                                                                                
+                             Parameter Estimates                              
+==============================================================================
+            Parameter  Std. Err.     T-stat    P-value    Lower CI    Upper CI
+------------------------------------------------------------------------------
+constr        -0.0204     0.0207    -0.9862     0.3241     -0.0610      0.0202
+vrp            0.0006     0.0003     1.7686     0.0770  -6.155e-05      0.0012
+materials      0.2505     0.1205     2.0783     0.0377      0.0142      0.4867
+act_dir        2.3611     1.3342     1.7696     0.0769     -0.2546      4.9768
+cpi            0.8248     0.5273     1.5641     0.1179     -0.2090      1.8587
+==============================================================================
+
+F-test for Poolability: 651.28
+P-value: 0.0000
+Distribution: F(11,5213)
+
+Included effects: Entity, Time
